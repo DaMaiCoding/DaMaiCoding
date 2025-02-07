@@ -1,10 +1,27 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/DaMaiCoding/DaMaiCoding/main/assets/dino.gif)
-
 <p>
   <h1 align="center">
     <b>Hey there! I'm 大麦大麦（DaMaiCoding）👋</b>
   </h1>
 </p>
+
+<div align=center>
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/DaMaiCoding/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/DaMaiCoding/)](https://github.com/DaMaiCoding/)
+  
+</div>
 
 > 💻 Full-stack Software Engineer | Nest + Vue & React
 
@@ -30,6 +47,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=uni-plus)](https://github.com/DaMaiCoding/uni-plus)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=create-uni-plus)](https://github.com/create-uni-plus)
 
-### 📫 &nbsp;Contact Me
-
-[![Justin](https://img.shields.io/badge/juejin-大麦大麦-1e80ff?logo=juejin)](https://juejin.cn/user/2368772393149325)
