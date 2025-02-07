@@ -23,15 +23,13 @@
   
 </div>
 
-> 💻 Full-stack Software Engineer | Nest + Vue & React
+<div align=center>
 
-### 🛠 &nbsp;Tech Stack
+  💻 Full-stack Software Engineer | `Nest + Vue & React`
 
-[![My Stack](https://skillicons.dev/icons?i=vue,react,nestjs,nodejs,js,ts,sass&perline=12)](https://github.com/DaMaiCoding)
+</div>
 
-[![My Stack](https://skillicons.dev/icons?i=docker,nginx,vite,tensorflow,pnpm&perline=12)](https://github.com/DaMaiCoding)
-
-[![My Stack](https://skillicons.dev/icons?i=vscode,git,github,jenkins,githubactions,gitlab,&perline=12)](https://github.com/DaMaiCoding)
+---
 
 ### ⚡ &nbsp;GitHub Analytics
 
@@ -42,8 +40,16 @@
 </a>
 </p>
 
+### 🛠 &nbsp;Tech Stack
+
+[![My Stack](https://skillicons.dev/icons?i=vue,react,nestjs,nodejs,js,ts,sass&perline=12)](https://github.com/DaMaiCoding)
+
+[![My Stack](https://skillicons.dev/icons?i=docker,nginx,vite,tensorflow,pnpm&perline=12)](https://github.com/DaMaiCoding)
+
+[![My Stack](https://skillicons.dev/icons?i=vscode,git,github,jenkins,githubactions,gitlab,&perline=12)](https://github.com/DaMaiCoding)
+
 ### ⭐ &nbsp;Open Source
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=uni-plus)](https://github.com/DaMaiCoding/uni-plus)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=create-uni-plus)](https://github.com/create-uni-plus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=create-uni-plus)](https://github.com/DaMaiCoding/create-uni-plus)
 
