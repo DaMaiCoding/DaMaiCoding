@@ -54,7 +54,7 @@
 
 而且也写了[相关的教程](https://damaicoding.github.io/uni-plus-doc/)，关于如何搭建这样的一个开发模板，连配套的创建脚手架教程也有哦~
 
-感谢大家的支持，如果觉得不错，可以点个 `⭐star`，谢谢！
+感谢大家的支持，如果觉得不错，可以点个 `⭐star` 哦~
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=uni-plus)](https://github.com/DaMaiCoding/uni-plus)
 
@@ -64,3 +64,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=create-uni-plus)](https://github.com/DaMaiCoding/create-uni-plus)
 
+### 📈 &nbsp;Personal 3D Metrics
+
+![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
