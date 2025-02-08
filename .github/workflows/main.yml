@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule: # 触发条件修改为: 当 main 分支有 push 操作 || 每天 22 点国内早上 6 点
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 jobs:

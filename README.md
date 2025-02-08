@@ -33,7 +33,7 @@
 
 ### ⚡ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/DaMaiCoding">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaMaiCoding&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaMaiCoding&layout=compact&exclude_lang=java+r" />
@@ -52,9 +52,9 @@
 
 这个 `uniapp` 快速开发模板项目已经开迭代了几个月，基本上已经稳定了
 
-而且也写了[相关的教程](https://damaicoding.github.io/uni-plus-doc/)，关于如何搭建这样的一个开发模板，连配套的创建脚手架教程也有哦~
+并且也写了非常详细的 关于搭建 [`uniapp` 开发基座模板教程](https://damaicoding.github.io/uni-plus-doc/)，以及如何使用
 
-感谢大家的支持，如果觉得不错，可以点个 `⭐star` 哦~
+如果觉得这个项目不错，对你有所帮助，可以点个 `⭐star` 感谢大家的支持~
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=uni-plus)](https://github.com/DaMaiCoding/uni-plus)
 
@@ -64,6 +64,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=create-uni-plus)](https://github.com/DaMaiCoding/create-uni-plus)
 
-### 📈 &nbsp;Personal 3D Metrics
+### 📈 &nbsp;Profile 3D Contrib
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
+![Profile 3D Contrib](./profile-3d-contrib/profile-green-animate.svg)
