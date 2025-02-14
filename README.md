@@ -50,19 +50,17 @@
 
 ### ⭐ &nbsp;Open Source
 
-这个 `uniapp` 快速开发模板项目已经开迭代了几个月，基本上已经稳定了
+我的开源项目：[uni-plus](https://github.com/DaMaiCoding/uni-plus)、[create-uni-plus](https://github.com/DaMaiCoding/create-uni-plus)
+
+`uni-plus` 是一个 `uniapp` 快速开发模板项目已经开迭代了几个月，基本上已经稳定了
 
 并且也写了非常详细的 关于搭建 [`uniapp` 开发基座模板教程](https://damaicoding.github.io/uni-plus-doc/)，以及如何使用
 
-如果觉得这个项目不错，对你有所帮助，可以点个 `⭐star` 感谢大家的支持~
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=uni-plus)](https://github.com/DaMaiCoding/uni-plus)
-
-下面这个项目就是 `uni-plus` 的创建脚手架
+`create-uni-plus` 这个项目就是 `uni-plus` 的创建脚手架
 
 如果需要创建一个项目模板脚手架项目，可以参考这个脚手架，当然，这个脚手架也是开源的
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaMaiCoding&repo=create-uni-plus)](https://github.com/DaMaiCoding/create-uni-plus)
+如果觉得这些开源项目不错，对你有所帮助，可以点个 `⭐star` 感谢大家的支持~
 
 ### 📈 &nbsp;Profile 3D Contrib
 
